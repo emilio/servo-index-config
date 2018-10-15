@@ -10,6 +10,7 @@ eval "$($MOZSEARCH_PATH/scripts/indexer-setup.py)"
 
 pushd "$FILES_ROOT"
 
+./mach bootstrap-gstreamer
 ./mach cargo check -p servo
 
 popd
