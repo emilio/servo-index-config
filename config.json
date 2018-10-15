@@ -1,0 +1,16 @@
+{
+  "mozsearch_path": "$MOZSEARCH_PATH",
+
+  "trees": {
+    "servo": {
+      "index_path": "$WORKING/servo",
+      "files_path": "$WORKING/servo/servo",
+      "git_path": "$WORKING/servo/servo",
+      "git_blame_path": "$WORKING/webkit/blame",
+      "github_repo": "https://github.com/servo/servo",
+      "objdir_path": "$WORKING/servo/servo/target",
+      "codesearch_path": "$WORKING/servo/livegrep.idx",
+      "codesearch_port": 8081
+    }
+  }
+}
