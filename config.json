@@ -6,7 +6,7 @@
       "index_path": "$WORKING/servo",
       "files_path": "$WORKING/servo/servo",
       "git_path": "$WORKING/servo/servo",
-      "git_blame_path": "$WORKING/webkit/blame",
+      "git_blame_path": "$WORKING/servo/blame",
       "github_repo": "https://github.com/servo/servo",
       "objdir_path": "$WORKING/servo/servo/target",
       "codesearch_path": "$WORKING/servo/livegrep.idx",
